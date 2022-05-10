@@ -9,3 +9,4 @@ These are Basic Model of chassis and Rim of formula F! car
 
 # Rim
 
+![Rim](https://user-images.githubusercontent.com/94870982/167574093-25a9d002-54cc-47c0-8fb5-43fd34e023cb.png)
