@@ -1,7 +1,7 @@
 # SOLIDWORKS-3D
 These are my work on SOLIDWORKS 3D 
 
-These are Basic Model of chassis and Rim of formula F! car
+These are Basic Model of chassis and Rim of formula One car
 
 # Chassis
 
